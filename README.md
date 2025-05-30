@@ -1,2 +1,6 @@
-# Mental_Health_Analysis
-This project explores mental health perceptions among tech professionals, focusing on workplace support and willingness to seek help, using data from the 2014 OSMI survey.
+# Mental Health Survey - Exploratory Data Analysis
+
+This repo contains a mini project of exploratory data analysis (EDA) base on a survey about mental health in tech found [here](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
+
+
+
